@@ -3,6 +3,7 @@ body, main {
 }
 body
 {
+
     flex-direction: column;
 }
 main
@@ -13,10 +14,12 @@ main
 }
 article
 {
+    background-color: dimgrey;
     overflow-y: auto;
     flex:2;
 }
 aside{
     overflow-y: auto;
     flex: 1;
+    background-color: peachpuff;
 }
