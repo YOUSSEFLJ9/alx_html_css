@@ -13,8 +13,14 @@ main
 }
 article
 {
+    overflow-y: auto;
     flex:2;
 }
 aside{
+    overflow-y: auto;
     flex: 1;
+}
+.works_on_smartphone
+{
+    
 }
