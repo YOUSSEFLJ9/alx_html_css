@@ -33,7 +33,7 @@ To run and view this project on your local machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUSSEFLJ9/alx_html_css]
+    git clone https://github.com/YOUSSEFLJ9/alx_html_css
     ```
 2.  **Open the Directory:**
     ```bash
